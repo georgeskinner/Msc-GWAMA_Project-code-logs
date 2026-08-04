@@ -1,0 +1,44 @@
+Multivariate ld-score regression of 2 traits (GWAMA_Primary_Trait.sumstats.gz Alzheimers.sumstats.gz) began at: 2026-08-02 11:05:56.261641
+Reading in LD scores
+Read in summary statistics [1/2] from: GWAMA_Primary_Trait.sumstats.gz
+Out of 1174598 SNPs, 1168077 remain after merging with LD-score files
+Removing 2 SNPs with Chi^2 > 2310.139; 1168075 remain
+Read in summary statistics [2/2] from: Alzheimers.sumstats.gz
+Out of 1168723 SNPs, 1161229 remain after merging with LD-score files
+Removing 8 SNPs with Chi^2 > 412.181; 1161221 remain
+          
+Estimating heritability [1/3] for: GWAMA_Primary_Trait.sumstats.gz
+Heritability Results for trait: GWAMA_Primary_Trait.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.9433
+Lambda GC: 1.6527
+Intercept: 1.157 (0.0154)
+Ratio: 0.1664 (0.0163)
+Total Observed Scale h2: 0.0186 (8e-04)
+h2 Z: 24.3
+     
+Calculating genetic covariance [2/3] for traits: GWAMA_Primary_Trait.sumstats.gz and Alzheimers.sumstats.gz
+1148443 SNPs remain after merging GWAMA_Primary_Trait.sumstats.gz and Alzheimers.sumstats.gz summary statistics
+Results for genetic covariance between: GWAMA_Primary_Trait.sumstats.gz and Alzheimers.sumstats.gz
+Mean Z*Z: 0.0178
+Cross trait Intercept: 0.0017 (0.0058)
+Total Observed Scale Genetic Covariance (g_cov): 9e-04 (6e-04)
+g_cov Z: 1.52
+g_cov P-value: 0.1278
+          
+Estimating heritability [3/3] for: Alzheimers.sumstats.gz
+Heritability Results for trait: Alzheimers.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.1691
+Lambda GC: 1.1355
+Intercept: 1.1283 (0.0516)
+Ratio: 0.759 (0.3051)
+Total Observed Scale h2: 0.0049 (0.0039)
+h2 Z: 1.25
+     
+      
+Genetic Correlation Results
+Genetic Correlation between GWAMA_Primary_Trait.sumstats.gz and Alzheimers.sumstats.gz: 0.091 (0.0597)
+     
+     
+LDSC finished running at 2026-08-02 11:06:05.851605
+Running LDSC for all files took 0 minutes and 9 seconds
+     

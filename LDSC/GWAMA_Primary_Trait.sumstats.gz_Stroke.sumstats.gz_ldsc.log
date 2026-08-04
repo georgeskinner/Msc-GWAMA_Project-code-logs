@@ -1,0 +1,44 @@
+Multivariate ld-score regression of 2 traits (GWAMA_Primary_Trait.sumstats.gz Stroke.sumstats.gz) began at: 2026-08-02 11:06:19.343787
+Reading in LD scores
+Read in summary statistics [1/2] from: GWAMA_Primary_Trait.sumstats.gz
+Out of 1174598 SNPs, 1168077 remain after merging with LD-score files
+Removing 2 SNPs with Chi^2 > 2310.139; 1168075 remain
+Read in summary statistics [2/2] from: Stroke.sumstats.gz
+Out of 1168732 SNPs, 1161238 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 412.181; 1161238 remain
+          
+Estimating heritability [1/3] for: GWAMA_Primary_Trait.sumstats.gz
+Heritability Results for trait: GWAMA_Primary_Trait.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.9433
+Lambda GC: 1.6527
+Intercept: 1.157 (0.0154)
+Ratio: 0.1664 (0.0163)
+Total Observed Scale h2: 0.0186 (8e-04)
+h2 Z: 24.3
+     
+Calculating genetic covariance [2/3] for traits: GWAMA_Primary_Trait.sumstats.gz and Stroke.sumstats.gz
+1148460 SNPs remain after merging GWAMA_Primary_Trait.sumstats.gz and Stroke.sumstats.gz summary statistics
+Results for genetic covariance between: GWAMA_Primary_Trait.sumstats.gz and Stroke.sumstats.gz
+Mean Z*Z: 0.0876
+Cross trait Intercept: 0.0094 (0.0065)
+Total Observed Scale Genetic Covariance (g_cov): 0.0041 (6e-04)
+g_cov Z: 6.39
+g_cov P-value: 1.6902e-10
+          
+Estimating heritability [3/3] for: Stroke.sumstats.gz
+Heritability Results for trait: Stroke.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.1309
+Lambda GC: 1.1196
+Intercept: 1.0468 (0.0084)
+Ratio: 0.3577 (0.0642)
+Total Observed Scale h2: 0.0103 (0.0015)
+h2 Z: 6.68
+     
+      
+Genetic Correlation Results
+Genetic Correlation between GWAMA_Primary_Trait.sumstats.gz and Stroke.sumstats.gz: 0.294 (0.046)
+     
+     
+LDSC finished running at 2026-08-02 11:06:25.291734
+Running LDSC for all files took 0 minutes and 5 seconds
+     

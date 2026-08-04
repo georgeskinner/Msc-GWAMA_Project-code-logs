@@ -1,0 +1,44 @@
+Multivariate ld-score regression of 2 traits (GWAMA_Primary_Trait.sumstats.gz COPD_Early.sumstats.gz) began at: 2026-08-02 11:05:32.172051
+Reading in LD scores
+Read in summary statistics [1/2] from: GWAMA_Primary_Trait.sumstats.gz
+Out of 1174598 SNPs, 1168077 remain after merging with LD-score files
+Removing 2 SNPs with Chi^2 > 2310.139; 1168075 remain
+Read in summary statistics [2/2] from: COPD_Early.sumstats.gz
+Out of 1168717 SNPs, 1161220 remain after merging with LD-score files
+Removing 0 SNPs with Chi^2 > 412.181; 1161220 remain
+          
+Estimating heritability [1/3] for: GWAMA_Primary_Trait.sumstats.gz
+Heritability Results for trait: GWAMA_Primary_Trait.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.9433
+Lambda GC: 1.6527
+Intercept: 1.157 (0.0154)
+Ratio: 0.1664 (0.0163)
+Total Observed Scale h2: 0.0186 (8e-04)
+h2 Z: 24.3
+     
+Calculating genetic covariance [2/3] for traits: GWAMA_Primary_Trait.sumstats.gz and COPD_Early.sumstats.gz
+1148443 SNPs remain after merging GWAMA_Primary_Trait.sumstats.gz and COPD_Early.sumstats.gz summary statistics
+Results for genetic covariance between: GWAMA_Primary_Trait.sumstats.gz and COPD_Early.sumstats.gz
+Mean Z*Z: 0.0819
+Cross trait Intercept: 0.0054 (0.0058)
+Total Observed Scale Genetic Covariance (g_cov): 0.0039 (6e-04)
+g_cov Z: 6.72
+g_cov P-value: 1.8679e-11
+          
+Estimating heritability [3/3] for: COPD_Early.sumstats.gz
+Heritability Results for trait: COPD_Early.sumstats.gz
+Mean Chi^2 across remaining SNPs: 1.2088
+Lambda GC: 1.1817
+Intercept: 1.0455 (0.0082)
+Ratio: 0.218 (0.0392)
+Total Observed Scale h2: 0.02 (0.002)
+h2 Z: 9.84
+     
+      
+Genetic Correlation Results
+Genetic Correlation between GWAMA_Primary_Trait.sumstats.gz and COPD_Early.sumstats.gz: 0.2011 (0.0299)
+     
+     
+LDSC finished running at 2026-08-02 11:05:43.925923
+Running LDSC for all files took 0 minutes and 11 seconds
+     

@@ -1,0 +1,12 @@
+"Primary_Trait","FinnGen_Trait","rg","SE","Z","P","FDR_P"
+"GWAMA_Primary_Trait","Benign_Liver",0.0854,5e-04,173.67,0,0
+"GWAMA_Primary_Trait","Liver_Disease",0.4401,6e-04,755.799,0,0
+"GWAMA_Primary_Trait","IBD_Strict",0.0312,6e-04,53.942,0,0
+"GWAMA_Primary_Trait","Rheumatoid_Arthritis_Other",0.2931,5e-04,572.992,0,0
+"GWAMA_Primary_Trait","COPD_Opportunist_Infections",0.1417,5e-04,282.775,0,0
+"GWAMA_Primary_Trait","COPD_Early",0.2011,6e-04,348.256,0,0
+"GWAMA_Primary_Trait","Rheuma",0.1581,5e-04,311.71,0,0
+"GWAMA_Primary_Trait","Alzheimers",0.091,6e-04,160.287,0,0
+"GWAMA_Primary_Trait","COPD_General",0.1745,7e-04,252.68,0,0
+"GWAMA_Primary_Trait","Stroke",0.294,6e-04,462.186,0,0
+"GWAMA_Primary_Trait","Heart_Failure",0.3208,6e-04,561.712,0,0
