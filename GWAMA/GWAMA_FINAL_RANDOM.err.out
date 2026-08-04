@@ -1,0 +1,20 @@
+W000000001 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 2:37995727 has wrong strand. Strand flipped.
+W000000002 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 3:127410959 has wrong strand. Strand flipped.
+E000000003 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 3:52731900 has wrong alleles. Marker dropped.
+E000000004 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 4:123747942 has wrong alleles. Marker dropped.
+E000000005 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 4:187004217 has wrong alleles. Marker dropped.
+W000000006 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 5:177831556 has wrong strand. Strand flipped.
+W000000007 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 6:29704545 has wrong strand. Strand flipped.
+W000000008 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 6:31321685 has wrong strand. Strand flipped.
+E000000009 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 6:32905086 has wrong alleles. Marker dropped.
+E000000010 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 6:42185567 has wrong alleles. Marker dropped.
+W000000011 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv warning: Marker 7:141759994 has wrong strand. Strand flipped.
+E000000012 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 10:64911911 has wrong alleles. Marker dropped.
+E000000013 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 12:117160873 has wrong alleles. Marker dropped.
+E000000014 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 14:24681025 has wrong alleles. Marker dropped.
+E000000015 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 14:76644266 has wrong alleles. Marker dropped.
+E000000016 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 15:57910333 has wrong alleles. Marker dropped.
+E000000017 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 17:9604928 has wrong alleles. Marker dropped.
+E000000018 CleanFinal_Clean_T2D_European.BMIunadjusted.tsv error: Marker 19:55568085 has wrong alleles. Marker dropped.
+E000000019 CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_HetISq_75.tsv has problem with alleles for marker chr2:10520!
+E000000019 CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_HetISq_75.tsv Given alleles: a/a. Skipping marker!

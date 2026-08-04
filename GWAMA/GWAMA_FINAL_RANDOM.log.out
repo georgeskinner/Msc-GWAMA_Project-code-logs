@@ -1,0 +1,48 @@
+Running GWAMA 2.1
+Reading input file list:
+	CleanFinal_Clean_GCST90026417_buildGRCh37.tsv
+	CleanFinal_Clean_GCST90029024_buildGRCh37.tsv
+	CleanFinal_Clean_GCST90077725_buildGRCh38.tsv
+	CleanFinal_Clean_GCST90435704.tsv
+	CleanFinal_Clean_GCST90668070.tsv
+	CleanFinal_Clean_GCST90086068_buildGRCh37.tsv
+	CleanFinal_Clean_METAANALYSIS_DIAGRAM_SE1.tsv
+	CleanFinal_Clean_T2D_European.BMIunadjusted.tsv
+	CleanFinal_Clean_diagram.mega-meta.tsv
+	CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_chrX_HetISq_75.tsv
+	CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_HetISq_75.tsv
+	CleanFinal_Clean_t2d_dom_dev.tsv
+END-OF-FILE
+Study count: 12
+ [1] Reading file: CleanFinal_Clean_GCST90026417_buildGRCh37.tsv
+ [2] Reading file: CleanFinal_Clean_GCST90029024_buildGRCh37.tsv
+ [3] Reading file: CleanFinal_Clean_GCST90077725_buildGRCh38.tsv
+ [4] Reading file: CleanFinal_Clean_GCST90435704.tsv
+ [5] Reading file: CleanFinal_Clean_GCST90668070.tsv
+ [6] Reading file: CleanFinal_Clean_GCST90086068_buildGRCh37.tsv
+ [7] Reading file: CleanFinal_Clean_METAANALYSIS_DIAGRAM_SE1.tsv
+ [8] Reading file: CleanFinal_Clean_T2D_European.BMIunadjusted.tsv
+Warning: Marker 2:37995727 has wrong strand. (W000000001)
+Warning: Marker 3:127410959 has wrong strand. (W000000002)
+Error: Marker 3:52731900 has wrong alleles. (E000000003)
+Error: Marker 4:123747942 has wrong alleles. (E000000004)
+Error: Marker 4:187004217 has wrong alleles. (E000000005)
+Warning: Marker 5:177831556 has wrong strand. (W000000006)
+Warning: Marker 6:29704545 has wrong strand. (W000000007)
+Warning: Marker 6:31321685 has wrong strand. (W000000008)
+Error: Marker 6:32905086 has wrong alleles. (E000000009)
+Error: Marker 6:42185567 has wrong alleles. (E000000010)
+Warning: Marker 7:141759994 has wrong strand. (W000000011)
+Error: Marker 10:64911911 has wrong alleles. (E000000012)
+Error: Marker 12:117160873 has wrong alleles. (E000000013)
+Error: Marker 14:24681025 has wrong alleles. (E000000014)
+Error: Marker 14:76644266 has wrong alleles. (E000000015)
+Error: Marker 15:57910333 has wrong alleles. (E000000016)
+Error: Marker 17:9604928 has wrong alleles. (E000000017)
+Error: Marker 19:55568085 has wrong alleles. (E000000018)
+ [9] Reading file: CleanFinal_Clean_diagram.mega-meta.tsv
+ [10] Reading file: CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_chrX_HetISq_75.tsv
+ [11] Reading file: CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_HetISq_75.tsv
+CleanFinal_Clean_summarystatistics_metal_1KGPhase1_UK10K_imputed_PublicT2DGWAS_data_HetISq_75.tsv has problem with alleles for marker chr2:10520!(E000000019)
+ [12] Reading file: CleanFinal_Clean_t2d_dom_dev.tsv
+Analysis finished.

@@ -1,0 +1,35 @@
+PLINK v2.0.0-a.7.1 64-bit (4 May 2026)
+Options in effect:
+  --clump GWAMA_plink_ready.txt
+  --clump-id-field SNP
+  --clump-kb 99999
+  --clump-p-field P
+  --clump-p1 5e-9
+  --clump-p2 5e-9
+  --clump-r2 0.1
+  --memory 12000
+  --out my_clumped_results
+  --pfile all_phase3
+  --rm-dup force-first
+  --set-missing-var-ids @:#
+  --threads 4
+
+Hostname: Mac
+Working directory: /Users/George/Desktop/GWAS_Files/1KG_reference
+Start time: Mon Jun 29 14:33:41 2026
+
+Random number seed: 1782740021
+16384 MiB RAM detected; reserving 12000 MiB for main workspace.
+Using up to 4 compute threads.
+3202 samples (1603 females, 1598 males, 1 ambiguous; 2583 founders) loaded from
+all_phase3.psam.
+Note: 2585 nonstandard chromosome codes present.
+75193455 variants loaded from all_phase3.pvar.
+2 categorical phenotypes loaded.
+--rm-dup: 1868477 duplicated IDs, 3145891 variants removed.
+Warning: 2666 top variant IDs in --clump file missing from main dataset.  IDs
+written to my_clumped_results.clumps.missing_id .
+--clump: 507 clumps formed from 8934 index candidates.
+Results written to my_clumped_results.clumps .
+
+End time: Mon Jun 29 14:34:54 2026
